@@ -1,0 +1,23 @@
+{
+    "title": "40% off on labor day",
+    "products": [
+        {
+            "title": "Yeezy 720 Boost",
+            "price": 200,
+            "product_url": "https://images.solecollector.com/complex/images/c_crop,h_607,w_1078,x_460,y_240/c_fill,dpr_2.0,f_auto,fl_lossy,q_auto,w_680/chkx8j4v99jhcwvbgx8w/adidas-yeezy-boost-700-sun-release-date",
+            "image_url": "https://images.solecollector.com/complex/images/c_crop,h_607,w_1078,x_460,y_240/c_fill,dpr_2.0,f_auto,fl_lossy,q_auto,w_680/chkx8j4v99jhcwvbgx8w/adidas-yeezy-boost-700-sun-release-date"
+        },
+        {
+            "title": "Air Jordans 13",
+            "price": 200,
+            "product_url": "https://cdn.flightclub.com/TEMPLATE/801581/1.jpg",
+            "image_url": "https://cdn.flightclub.com/TEMPLATE/801581/1.jpg"
+        },
+        {
+            "title": "LeBrons 8",
+            "price": 165,
+            "product_url": "https://stockx.imgix.net/images/Lebron-8-South-Beach-Pre-Heat-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1606318617",
+            "image_url": "https://stockx.imgix.net/images/Lebron-8-South-Beach-Pre-Heat-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1606318617"
+        }
+    ]
+}
